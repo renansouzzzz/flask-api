@@ -6,3 +6,4 @@
 * [GET = SOLICITAR INFORMAÇÃO]
 * [PUT = ALTERAR INFORMAÇÃO]
 
+- Métodos não utilizados mas também utilizado pela API: ['POST' , 'DELETE']
