@@ -28,7 +28,7 @@ def colaborador(id):
         colaboradores.append(dados)
         return jsonify(colaboradores[posicao])
 
-# todos os desenvolvedores
+# todos os colaboradores
     elif request.method == 'GET':
         return jsonify(colaboradores)
 
