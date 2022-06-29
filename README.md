@@ -1,9 +1,32 @@
-# Flask + requisição API.
+
+# Flask + Requests
+
+Requests feito a partir de um arquivo JSON, feito na entrada do usuário.
+
+
+
+
+## Instalação
+
+
+```bash
+  pip install flask
+```
+
+## Rodar aplicação
+
+```bash
+$ export FLASK_APP=app
+$ flask run
+ * Running on http://127.0.0.1:5000/
+```
+
+
+
+
+    
+## Referência
+
+ - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
+
  
- Talvez seja um projeto será utilizado requisições de JSONS solicitados pelo usuário.<br>
- É sempre bom utilizar a API REST, uma satisfação total ver nossa tecnologia chegando nos primordios. <br>
-
-* [GET = SOLICITAR INFORMAÇÃO]
-* [PUT = ALTERAR INFORMAÇÃO]
-
-- Métodos não utilizados mas também disponíveis pela ferramenta: ['POST' , 'DELETE']
