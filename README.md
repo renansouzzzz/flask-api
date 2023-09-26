@@ -1,5 +1,5 @@
 
-# Flask + Requests
+# Flask
 
 Requests feito a partir de um arquivo JSON, feito na entrada do usuário.
 
